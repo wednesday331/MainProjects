@@ -49,7 +49,7 @@ Displays a list of county names that have been saved/unsaved. Includes paginatio
 Contains a list of county information in the form of .md files. They will be converted from Markdown2 content to HTML and this be used in the countyinformation.html file.    
 
 
-# Why this project satisfies the distinctiveness and complexity requirements:  
+# Why this Project Satisfies the Distinctiveness and Complexity Requirements:  
 The project extensively uses knowledge learned throughout the course. They include:  
 - Using Django's models.py, urls.py, views.py (and other Django files).
 - Uses extending HTML layouts, and several types of Jinja2 syntax.
